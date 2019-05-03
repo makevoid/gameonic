@@ -36,10 +36,13 @@ class Gameonic
     word1 = words.sample
     word2 = words.sample
     word3 = words.sample
+  end
 
-    words = {
-      "1": word1,
-      "2": word2,
-      "3": word3,
-    }
+  # ...
+
+  Words = {
+    "1": word1,
+    "2": word2,
+    "3": word3,
+  }
  ```
